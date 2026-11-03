@@ -164,6 +164,11 @@ Explore the finest self-hosted, open-source uptime monitors and status page engi
 - **License**: AGPL-3.0
 - **Key Features**: Ultra-lightweight single-binary uptime monitor running comfortably on ~20MB RAM. Features 19 monitor types, statistical baseline anomaly detection, multi-step HTTP transaction chains, 90-day SLA status bars, and AES-256-GCM data encryption at rest.
 
+### 20. [pulseping-lite](https://github.com/alessio1999xx-debug/pulseping-lite) [![GitHub_Stars](https://img.shields.io/github/stars/alessio1999xx-debug/pulseping-lite?style=social&color=white)](https://github.com/alessio1999xx-debug/pulseping-lite/stargazers)
+- **Primary Stack**: Python
+- **License**: MIT
+- **Key Features**: Single-file, stdlib-only CLI that checks one URL or host:port (HTTP status or TCP connect) and reports days left on its TLS certificate. Plain text or JSON output, exit codes 0/1/2 so cron or CI can fail the run. Nothing to pip-install.
+
 ---
 
 ## 🔍 Key Evaluation Criteria
