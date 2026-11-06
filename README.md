@@ -159,7 +159,12 @@ Explore the finest self-hosted, open-source uptime monitors and status page engi
 - **License**: Apache-2.0
 - **Key Features**: High-throughput uptime and SSL monitoring microservice. Features HTTP(S), heartbeat, Ping, TCP, and DNS checks with record-change detection, Prometheus metrics export, REST API, Home Assistant integrations, and Model Context Protocol (MCP) support for AI agents.
 
-### 19. [Asura](https://github.com/y0f/Asura) [![GitHub_Stars](https://img.shields.io/github/stars/y0f/Asura?style=social&color=white)](https://github.com/y0f/Asura/stargazers)
+### 19. [SolidPing](https://github.com/fclairamb/solidping) [![GitHub_Stars](https://img.shields.io/github/stars/fclairamb/solidping?style=social&color=white)](https://github.com/fclairamb/solidping/stargazers)
+- **Primary Stack**: Go, SQLite (Postgres optional)
+- **License**: AGPL-3.0
+- **Key Features**: Self-hostable uptime monitor in a single Go binary, with 40+ check types (HTTP, TCP, DNS, SSL expiry, SMTP, databases, Kafka, MQTT, headless browser, heartbeat). Multi-region workers, private agents, status pages, incidents, on-call escalation and an MCP server.
+
+### 20. [Asura](https://github.com/y0f/Asura) [![GitHub_Stars](https://img.shields.io/github/stars/y0f/Asura?style=social&color=white)](https://github.com/y0f/Asura/stargazers)
 - **Primary Stack**: Go, SQLite
 - **License**: AGPL-3.0
 - **Key Features**: Ultra-lightweight single-binary uptime monitor running comfortably on ~20MB RAM. Features 19 monitor types, statistical baseline anomaly detection, multi-step HTTP transaction chains, 90-day SLA status bars, and AES-256-GCM data encryption at rest.
