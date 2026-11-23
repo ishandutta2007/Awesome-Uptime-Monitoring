@@ -174,6 +174,11 @@ Explore the finest self-hosted, open-source uptime monitors and status page engi
 - **License**: MIT
 - **Key Features**: Single-file, stdlib-only CLI that checks one URL or host:port (HTTP status or TCP connect) and reports days left on its TLS certificate. Plain text or JSON output, exit codes 0/1/2 so cron or CI can fail the run. Nothing to pip-install.
 
+### 21. [SiteWatcher](https://github.com/NikKurkov/sitewatcher) [![GitHub_Stars](https://img.shields.io/github/stars/NikKurkov/sitewatcher?style=social&color=white)](https://github.com/NikKurkov/sitewatcher)
+- **Primary Stack**: Python, Django, SQLite
+- **License**: MIT
+- **Key Features**: Self-hosted HTTP uptime and response-time history, TLS certificate and domain registration expiry checks, email or Telegram alerts, and public status pages. Deploys from source with Docker Compose.
+
 ---
 
 ## 🔍 Key Evaluation Criteria
