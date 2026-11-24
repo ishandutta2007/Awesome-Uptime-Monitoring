@@ -174,6 +174,11 @@ Explore the finest self-hosted, open-source uptime monitors and status page engi
 - **License**: MIT
 - **Key Features**: Single-file, stdlib-only CLI that checks one URL or host:port (HTTP status or TCP connect) and reports days left on its TLS certificate. Plain text or JSON output, exit codes 0/1/2 so cron or CI can fail the run. Nothing to pip-install.
 
+### 21. [cronpulse-lite](https://github.com/alessio1999xx-debug/cronpulse-lite) [![GitHub_Stars](https://img.shields.io/github/stars/alessio1999xx-debug/cronpulse-lite?style=social&color=white)](https://github.com/alessio1999xx-debug/cronpulse-lite/stargazers)
+- **Primary Stack**: Python
+- **License**: MIT
+- **Key Features**: Single-file, stdlib-only cron job wrapper that records exit code, duration and last output lines, kills jobs that hang past a timeout, and posts an alert to Slack, Discord or any webhook when a job fails. The job's exit code is passed through; runs are kept in a local JSONL log.
+
 ---
 
 ## 🔍 Key Evaluation Criteria
